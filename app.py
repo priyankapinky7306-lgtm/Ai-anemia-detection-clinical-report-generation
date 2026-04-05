@@ -161,7 +161,7 @@ with col_upload:
         image = Image.open(uploaded_file).convert("RGB")
         st.markdown('<div class="upload-card">', unsafe_allow_html=True)
         st.markdown('<p class="section-heading">🖼️ Image Preview</p>', unsafe_allow_html=True)
-        st.image(image, use_container_width=True, caption="Uploaded Blood Smear Image")
+        st.image(image, caption="Uploaded Blood Smear Image")
         w, h = image.size
         ca, cb = st.columns(2)
         with ca:
