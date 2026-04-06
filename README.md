@@ -1,5 +1,5 @@
 # 🩸 AI-Based Anemia Detection System
-### Academic Major Project | Deep Learning + NLP + Streamlit
+### Major Project | Deep Learning + NLP + Streamlit
 
 ---
 
