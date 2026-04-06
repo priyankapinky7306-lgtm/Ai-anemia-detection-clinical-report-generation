@@ -1,4 +1,4 @@
-# 🩸 AI-Based Anemia Detection System
+# 🩸 AI-Based Anemia Detection System🩸
 ### Major Project | Deep Learning + NLP + Streamlit
 
 ---
@@ -82,4 +82,4 @@ Download the Blood Cell dataset from Kaggle:
 | Data Science | NumPy, Pandas, Matplotlib |
 
 ---
-**major Project | 2025-2026**
+**Major Project | 2025-2026**
