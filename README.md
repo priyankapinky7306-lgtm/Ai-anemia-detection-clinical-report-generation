@@ -82,4 +82,4 @@ Download the Blood Cell dataset from Kaggle:
 | Data Science | NumPy, Pandas, Matplotlib |
 
 ---
-**Academic Project | 2024-2025**
+**major Project | 2025-2026**
